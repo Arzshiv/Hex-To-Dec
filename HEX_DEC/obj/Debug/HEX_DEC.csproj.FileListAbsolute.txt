@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2017\Projects\HEX_DEC\HEX_DEC\bin\Debug\HEX_DEC.exe.config
+c:\users\administrator\documents\visual studio 2017\Projects\HEX_DEC\HEX_DEC\bin\Debug\HEX_DEC.exe
+c:\users\administrator\documents\visual studio 2017\Projects\HEX_DEC\HEX_DEC\bin\Debug\HEX_DEC.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\HEX_DEC\HEX_DEC\obj\Debug\HEX_DEC.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\HEX_DEC\HEX_DEC\obj\Debug\HEX_DEC.exe
+c:\users\administrator\documents\visual studio 2017\Projects\HEX_DEC\HEX_DEC\obj\Debug\HEX_DEC.pdb
